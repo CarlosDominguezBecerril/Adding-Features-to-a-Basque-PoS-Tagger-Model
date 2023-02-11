@@ -11,7 +11,7 @@ The paper is available as part of this repository
 
 ## Code
 
-The code is available in Jupyter Notebook
+The code is available in a Jupyter Notebook
 
 ## Results
 
